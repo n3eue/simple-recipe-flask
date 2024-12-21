@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta", "Garlic", "Black pepper"],
+        "instructions": "Cook spaghetti. Mix eggs and cheese. Fry pancetta and garlic. Combine all ingredients.",
+        "image": "https://example.com/spaghetti.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Chocolate Cake",
+        "ingredients": ["Flour", "Sugar", "Cocoa powder", "Eggs", "Butter", "Milk"],
+        "instructions": "Mix dry ingredients. Add wet ingredients. Bake at 180°C for 30 minutes.",
+        "image": "https://example.com/cake.jpg"
+    }
+]
